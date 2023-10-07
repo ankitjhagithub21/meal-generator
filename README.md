@@ -39,8 +39,7 @@ This is a web application that allows users to generate random meal recipes, fil
 
 ## Demo
 
-('''https://ankitjhagithub21.github.io/meal-generator/''')
-
+('''https://mealgenerator-1ka2.onrender.com/''')
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
