@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500&display=swap');
+::-webkit-scrollbar{
+    display: none;
+}
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+main{
+    min-height: 100vh;
+}
+.meal-info{
+    display: none;
+}
+iframe{
+    width: 500px;
+    height: 300px;
+}
+
+.form-select{
+    min-width: 250px;
+}
+.card{
+    width: 18rem;
+    text-align: center;
+}
+.card-img-top{
+    height: 250px;
+    object-fit: cover;
+   
+}
+.card h5{
+    
+    min-height: 80px;
+    padding: 5px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.btn-danger{
+    margin: 5px;
+}
+
+@media (max-width:768px) {
+   iframe{
+    width: 100%;
+    
+   }
+   header{
+    margin: auto 10px;
+   }
+}
+
+
